@@ -1,0 +1,32 @@
+{
+  "Product ID": {
+    "productId": "Product ID",
+    "name": "Name",
+    "price": "Price",
+    "inStock": "In Stock"
+  },
+  "1": {
+    "productId": "1",
+    "name": "Cello Water Bottle",
+    "price": "$19.99",
+    "inStock": "Yes"
+  },
+  "2": {
+    "productId": "2",
+    "name": "Devidayal Kitchen Handi Set",
+    "price": "$30",
+    "inStock": "No"
+  },
+  "3": {
+    "productId": "3",
+    "name": "Puma Red Warm Winter Jacket",
+    "price": "$50",
+    "inStock": "Yes"
+  },
+  "4": {
+    "productId": "4",
+    "name": "Plants Set Stand 4 * 4",
+    "price": "$14",
+    "inStock": "No"
+  }
+}
